@@ -1,0 +1,60 @@
+.App {
+    text-align: center;
+  }
+  
+  .question-card {
+    margin: 0 auto;
+    width: 80%; 
+    height: auto;
+    background-color: rgb(226, 193, 25);
+    padding: 16px;
+    border-radius: 16px;
+    color: black;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px,
+      rgba(0, 0, 0, 0.3) 0px 18px 36px -18px;
+  }
+  
+  ul {
+    list-style: none;
+  }
+  
+  li {
+    margin-top: 8px;
+    background-color: rgb(238, 46, 46);
+    padding: 16px;
+    border: 3px solid black;
+    border-radius: 20px;
+    font-size: 25px;
+  }
+  
+  .question-text {
+    color: darkblue;
+    font-size: 30px;
+  }
+  
+  
+  .final-results {
+    margin: 0 auto;
+    width: 50%; 
+    height: auto;
+    margin-top: 64px;
+    background-color:rgb(226, 193, 25);
+    padding: 16px;
+    border-radius: 16px;
+    color: black;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px,
+      rgba(0, 0, 0, 0.3) 0px 18px 36px -18px;
+  }
+  
+  button {
+    background-color: red; 
+    border: none;
+    color: black;
+    padding: 16px 24px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 24px;
+  }
